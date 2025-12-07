@@ -93,6 +93,6 @@ All `fromDate`/`toDate` params must be `YYYY-MM-DD` and `fromDate <= toDate`.
 - Money fields now include a `currency` flag (default USD). Format client-side as needed.
 - Leverage admin list endpoint for select inputs (e.g., choose org client).
 - Surface validation errors from backend (`errors` array) in forms.
-- Seed script creates sample clients (`yakuza-dentoto`, `sakura-digital`) for immediate UI testing.
+- Seed script creates sample clients for immediate UI testing.
 
 Need an OpenAPI/Swagger file next? Let me know!
